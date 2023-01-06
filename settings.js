@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "🎀 𝒬𝓊𝑒𝑒𝓃 𝑅𝑒𝑒𝓂𝒶𝒽 🎀" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
